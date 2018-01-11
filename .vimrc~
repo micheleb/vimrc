@@ -114,7 +114,6 @@ highlight link SyntasticStyleWarningSign SignColumn
 
 let g:ctrlp_custom_ignore = '\v[\/](node_modules|target|dist)|(\.(swp|ico|git|svn))$'
 
-" Powerline OS-dependent configuration
 " for MacOS, set set rtp+=/usr/local/lib/python2.7/site-packages/powerline/bindings/vim/
 set rtp+=/usr/local/lib/python2.7/dist-packages/powerline/bindings/vim/ " for Linux, set this
 let g:Powerline_symbols='fancy'
