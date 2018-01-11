@@ -60,7 +60,8 @@ set shiftwidth=4
 set expandtab
 set pastetoggle=<F2>
 set backup
-set directory=~/.vim/swapfiles/
+set directory=~/.vim/swapfiles//
+set backupdir=~/.vim/backups
 
 nmap <F3> ysiw
 nmap <F4> cs
